@@ -11,6 +11,14 @@
 
 [EN] Head First HTML5 Programming (Book by Eric Freeman)
 
+#### JAVA
+
+[EN] How to Program, 9th Edition (Book by Paul Deitel, Harvey Deitel)
+
+[PT] Aprenda programação orientada a objetos (Book by Anthony Sintes)
+
+[EN] Head First Java (Book by Bert Bates and Kathy Sierra)
+
 #### JS
 
 [EN] Professional javascript for web developers (Book by Nicholas Zakas)
@@ -23,13 +31,15 @@
 
 [EN] Head First JavaScript (Book by Michael Morrison)
 
-#### JAVA
+#### LUA
 
-[EN] How to Program, 9th Edition (Book by Paul Deitel, Harvey Deitel)
+[EN] Programming in Lua (Book by Roberto Ierusalimschy)
 
-[PT] Aprenda programação orientada a objetos (Book by Anthony Sintes)
+#### MOBILE
 
-[EN] Head First Java (Book by Bert Bates and Kathy Sierra)
+[EN] Head First IPhone and IPad Development(Book by Dan Pilone and Tracey Pilone)
+
+[EN] Head First Android Development (Book by Jonathan Simon)
 
 #### PHP
 
@@ -50,12 +60,6 @@
 #### SQL
 
 [EN] Head First SQL: Your Brain on SQL (Book by Lynn Beighley)
-
-#### MOBILE
-
-[EN] Head First IPhone and IPad Development(Book by Dan Pilone and Tracey Pilone)
-
-[EN] Head First Android Development (Book by Jonathan Simon)
 
 # Sites
 
