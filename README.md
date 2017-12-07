@@ -62,6 +62,7 @@
 (EN) Head First SQL: Your Brain on SQL (Book by Lynn Beighley)
 
 # Sites
+(PT) [Loiane](https://loiane.com)
 
 (EN) [180 sites by Jennifer Dewalt](https://jenniferdewalt.com)
 
