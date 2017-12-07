@@ -76,3 +76,8 @@
 
 ### (PT) [NodeStudio](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)
 ### (PT) [CursoEmVideo](https://www.youtube.com/user/cursosemvideo)
+### (PT) [EtevanMaito](https://www.youtube.com/channel/UCIUOmAsotrzdK8VsZuHfVHw)
+### (EN) [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+### (PT) [Playcode](https://www.youtube.com/channel/UCTJ1mLre8sT-d4KuvmQsSQA)
+### (PT) [HxTotors](https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ)
+### (PT) [Loiane](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
