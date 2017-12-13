@@ -97,3 +97,9 @@
 (EN) [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 
 (EN) [TraversyMedia](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+(EN) [HackerEarth](https://www.youtube.com/channel/UCYU6nvKyRYnE5kiG9JXkXpA)
+
+(EN) [AndreMadarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ)
+
+(EN) [KevinPowell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
