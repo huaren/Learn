@@ -64,6 +64,10 @@
 # Sites
 (PT) [Loiane](https://loiane.com)
 
+(PT) [CursoEmVideo](http://www.cursoemvideo.com)
+
+(PT) [NodeStudio](https://www.nodestudio.com.br)
+
 (EN) [180 sites by Jennifer Dewalt](https://jenniferdewalt.com)
 
 (EN) [java Script is Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/)
@@ -72,13 +76,9 @@
 
 (EN) [Codecademy](https://www.codecademy.com)
 
-(PT) [NodeStudio](https://www.nodestudio.com.br)
-
 (EN) [Team3House](https://teamtreehouse.com/learn)
 
 (EN) [FreeCodeCamp](https://www.freecodecamp.org)
-
-(PT) [CursoEmVideo](http://www.cursoemvideo.com)
 
 # YOUTUBE
 
@@ -88,10 +88,12 @@
 
 (PT) [EtevanMaito](https://www.youtube.com/channel/UCIUOmAsotrzdK8VsZuHfVHw)
 
-(EN) [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
-
 (PT) [Playcode](https://www.youtube.com/channel/UCTJ1mLre8sT-d4KuvmQsSQA)
 
 (PT) [HxTotors](https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ)
 
 (PT) [Loiane](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
+
+(EN) [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+
+(EN) [TraversyMedia](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
